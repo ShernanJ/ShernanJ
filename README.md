@@ -3,10 +3,10 @@
 
 <p><a href="https://www.shernanjavier.com/" target="_blank"><img src="https://user-images.githubusercontent.com/55066233/145952179-437238ac-fd7d-47b9-9324-bf9e683ae96f.png" alt="React.js" height="20" width="20" /></a>&nbsp;I'm a React.js Enthusiast</p>
 <p>👨‍💻 I code everyday but I private all my repos so it looks like I have none lol</p>
-<p>🌐 Check out my portfolio site @ <a href="https://www.shernanjavier.com/">shernanjavier.com</a></p>
-<p>📝 Check out my <a href="https://drive.google.com/file/d/1_qmKdsMpTXzzXtwCWYEGh90puMwCTtKa/view">Resume</a></p>
+<p>🌐 Check out my portfolio site @ <a href="https://www.shernanjavier.com/" target="_blank">shernanjavier.com</a></p>
+<p>📝 Check out my <a href="https://drive.google.com/file/d/1_qmKdsMpTXzzXtwCWYEGh90puMwCTtKa/view" target="_blank">Resume</a></p>
 <p>🔎 Currently seeking ☀️ Summer 2022 Software Developer Internships</p>
-<p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://uofthacks.com/images/mooselogo-placeholder.png" alt="React.js" height="20" width="20" /></a>&nbsp;Currently the VP of Web Development @ <a href="https://www.uofthacks.com/">UofTHacks</a></p>
+<p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://uofthacks.com/images/mooselogo-placeholder.png" alt="React.js" height="20" width="20" /></a>&nbsp;Currently the VP of Web Development @ <a href="https://www.uofthacks.com/" target="_blank">UofTHacks</a></p>
 <p>📧 Contact me @ <a href="mailto:shernanjavier@gmail.com">shernanjavier@gmail.com</a>
   
 ## 📖 Languages
@@ -47,7 +47,7 @@
 
 ## 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/shernanjavier" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shernanjavier" height="30" width="30" /></a>
-<a href="https://www.instagram.com/shernan.javier/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="shernan.javier" height="30" width="30" /></a>  
-<a href="https://discord.gg/Shernan#9180" target="blank"><img align="center" src="https://static.wikia.nocookie.net/laifubot/images/0/01/Discord-logo-png-7622.png/revision/latest?cb=20210621041014" alt="Shernan#9180" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/shernanjavier" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shernanjavier" height="30" width="30" /></a>
+<a href="https://www.instagram.com/shernan.javier/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="shernan.javier" height="30" width="30" /></a>  
+<a href="https://discord.gg/Shernan#9180" target="_blank"><img align="center" src="https://static.wikia.nocookie.net/laifubot/images/0/01/Discord-logo-png-7622.png/revision/latest?cb=20210621041014" alt="Shernan#9180" height="30" width="30" /></a>
 </p>
