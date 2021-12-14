@@ -4,7 +4,7 @@
 <p><a href="https://www.shernanjavier.com/" target="_blank"><img src="https://user-images.githubusercontent.com/55066233/145952179-437238ac-fd7d-47b9-9324-bf9e683ae96f.png" alt="React.js" height="20" width="20" /></a>&nbsp;I'm a React.js Enthusiast</p>
 <p>👨‍💻 I code everyday but I private all my repos so it looks like I have none lol</p>
 <p>🌐 Check out my portfolio site @ <a href="https://www.shernanjavier.com/">shernanjavier.com</a></p>
-<p>📝 Check out my <a href="https://drive.google.com/file/d/1_YAoZwCUCHi9iCEDmQl_TcX41Yq6Yqwn/view">Resume</a></p>
+<p>📝 Check out my <a href="https://drive.google.com/file/d/1_qmKdsMpTXzzXtwCWYEGh90puMwCTtKa/view">Resume</a></p>
 <p>🔎 Currently seeking ☀️ Summer 2022 Software Developer Internships</p>
 <p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://uofthacks.com/images/mooselogo-placeholder.png" alt="React.js" height="20" width="20" /></a>&nbsp;Currently the VP of Web Development @ <a href="https://www.uofthacks.com/">UofTHacks</a></p>
 <p>📧 Contact me @ <a href="mailto:shernanjavier@gmail.com">shernanjavier@gmail.com</a>
