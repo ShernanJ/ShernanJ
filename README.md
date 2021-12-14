@@ -9,7 +9,7 @@
 <p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://uofthacks.com/images/mooselogo-placeholder.png" alt="React.js" height="20" width="20" /></a>&nbsp;Currently the VP of Web Development @ <a href="https://www.uofthacks.com/">UofTHacks</a></p>
 <p>📧 Contact me @ <a href="mailto:shernanjavier@gmail.com">shernanjavier@gmail.com</a>
   
-## Languages
+## 📖 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,7 +22,7 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## Technologies
+## 🤖 Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
@@ -45,7 +45,7 @@
 ![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShernanJ&count_private=true&theme=onedark)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShernanJ&theme=dark)     | ![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ShernanJ&show_icons=true&locale=en&theme=onedark)
 :-------------------------:|:-------------------------:|:-------------------------:
 
-## Connect with me:
+## 🤝 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/shernanjavier" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shernanjavier" height="30" width="30" /></a>
 <a href="https://discord.gg/Shernan#9180" target="blank"><img align="center" src="https://static.wikia.nocookie.net/laifubot/images/0/01/Discord-logo-png-7622.png/revision/latest?cb=20210621041014" alt="Shernan#9180" height="30" width="30" /></a>
