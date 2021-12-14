@@ -53,7 +53,8 @@
 
 ## 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/shernanjavier" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shernanjavier" height="30" width="30" /></a>
-<a href="https://www.instagram.com/shernan.javier/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="shernan.javier" height="30" width="30" /></a>  
-<a href="https://discord.gg/Shernan#9180" target="_blank"><img align="center" src="https://static.wikia.nocookie.net/laifubot/images/0/01/Discord-logo-png-7622.png/revision/latest?cb=20210621041014" alt="Shernan#9180" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/shernanjavier" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shernanjavier" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/shernan.javier/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="shernan.javier" height="30" width="30" /></a>  
+  <a href="https://discord.gg/Shernan#9180" target="_blank"><img align="center" src="https://static.wikia.nocookie.net/laifubot/images/0/01/Discord-logo-png-7622.png/revision/latest?cb=20210621041014" alt="Shernan#9180" height="30" width="30" /></a>
+  <a href="https://devpost.com/shernanjavier" target="_blank"><img align="center" src="https://seekvectors.com/files/download/Devpost-logo.png" width="35" height="30" /></a>
 </p>
