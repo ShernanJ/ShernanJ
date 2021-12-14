@@ -41,11 +41,13 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## ⭐ Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShernanJ&show_icons=true&locale=en&layout=compact" alt="ShernanJ" width="300" height="200" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShernanJ&show_icons=true&locale=en" alt="ShernanJ" width="300" height="200" /></p>
+
+![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShernanJ&count_private=true&theme=onedark)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShernanJ&theme=dark)     | ![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ShernanJ&show_icons=true&locale=en&theme=onedark)
+:-------------------------:|:-------------------------:|:-------------------------:
 
 ## Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/shernanjavier" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shernanjavier" height="30" width="40" /></a>
-<a href="https://discord.gg/Shernan#9180" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Shernan#9180" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/shernanjavier" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shernanjavier" height="30" width="30" /></a>
+<a href="https://discord.gg/Shernan#9180" target="blank"><img align="center" src="https://static.wikia.nocookie.net/laifubot/images/0/01/Discord-logo-png-7622.png/revision/latest?cb=20210621041014" alt="Shernan#9180" height="30" width="30" /></a>
+<a href="https://www.instagram.com/shernan.javier/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="shernan.javier" height="30" width="30" /></a>  
 </p>
