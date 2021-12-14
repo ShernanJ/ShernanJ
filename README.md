@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shernan Javier</h1>
+<h1 align="center">👋 Hi, I'm Shernan Javier</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ShernanJ&label=Profile%20views&color=0e75b6&style=flat" alt="Shernan Javier" /> </p>
 
 <p><a href="https://www.shernanjavier.com/" target="_blank"><img src="https://user-images.githubusercontent.com/55066233/145952179-437238ac-fd7d-47b9-9324-bf9e683ae96f.png" alt="React.js" height="20" width="20" /></a>&nbsp;I'm a React.js Enthusiast</p>
