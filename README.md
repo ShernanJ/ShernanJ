@@ -41,9 +41,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 ## ⭐ Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShernanJ&show_icons=true&locale=en&layout=compact" alt="ShernanJ" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShernanJ&show_icons=true&locale=en" alt="ShernanJ" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShernanJ&show_icons=true&locale=en&layout=compact" alt="ShernanJ" width="300" height="200" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShernanJ&show_icons=true&locale=en" alt="ShernanJ" width="300" height="200" /></p>
 
 ## Connect with me:
 <p align="left">
