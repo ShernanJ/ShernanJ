@@ -8,6 +8,9 @@
 <p>🔎 Currently seeking ☀️ Summer 2022 Software Developer Internships</p>
 <p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://uofthacks.com/images/mooselogo-placeholder.png" alt="React.js" height="20" width="20" /></a>&nbsp;Currently the VP of Web Development @ <a href="https://www.uofthacks.com/" target="_blank">UofTHacks</a></p>
 <p>📧 Contact me @ <a href="mailto:shernanjavier@gmail.com">shernanjavier@gmail.com</a>
+
+💭 My dream is to one day be apart of a team @   [![Shopify](https://img.shields.io/badge/​-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)](https://www.shopify.com/)
+
   
 ## 📖 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -41,6 +44,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storynook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
@@ -51,10 +55,12 @@
 ![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShernanJ&count_private=true&theme=onedark)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShernanJ&theme=dark)     | ![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ShernanJ&show_icons=true&locale=en&theme=onedark)
 :-------------------------:|:-------------------------:|:-------------------------:
 
-## 🤝 Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/shernanjavier" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shernanjavier" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/shernan.javier/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" alt="shernan.javier" height="30" width="30" /></a>  
-  <a href="https://discord.gg/Shernan#9180" target="_blank"><img align="center" src="https://static.wikia.nocookie.net/laifubot/images/0/01/Discord-logo-png-7622.png/revision/latest?cb=20210621041014" alt="Shernan#9180" height="30" width="30" /></a>
-  <a href="https://devpost.com/shernanjavier" target="_blank"><img align="center" src="https://seekvectors.com/files/download/Devpost-logo.png" width="35" height="30" /></a>
-</p>
+## 🤝 Connect with me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shernanjavier@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/shernan_javier-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shernanjavier)
+[![Instagram](https://img.shields.io/badge/shernan.javier-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shernan.javier/)
+[![Twitch](https://img.shields.io/badge/shernancodes-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/shernancodes/)
+![Discord](https://img.shields.io/badge/Shernan%239180-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Devpost](https://img.shields.io/badge/shernanjavier-%230D597F.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/shernanjavier)
+[![Portfolio](https://img.shields.io/badge/shernanjavier.com-%234C9ED4.svg?style=for-the-badge&logo=stripe&logoColor=white)](https://www.shernanjavier.com/)
