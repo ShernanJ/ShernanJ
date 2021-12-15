@@ -9,7 +9,7 @@
 <p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://uofthacks.com/images/mooselogo-placeholder.png" alt="React.js" height="20" width="20" /></a>&nbsp;Currently the VP of Web Development @ <a href="https://www.uofthacks.com/" target="_blank">UofTHacks</a></p>
 <p>📧 Contact me @ <a href="mailto:shernanjavier@gmail.com">shernanjavier@gmail.com</a>
 
-💭 My dream is to one day be apart of a team @   [![Shopify](https://img.shields.io/badge/​-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)](https://www.shopify.com/)
+💭 My dream is to one day be apart of the team @   [![Shopify](https://img.shields.io/badge/​-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)](https://www.shopify.com/)
 
   
 ## 📖 Languages
