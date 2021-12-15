@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Shernan Javier</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShernanJ&label=Profile%20views&color=0e75b6&style=flat" alt="Shernan Javier" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShernanJ&label=Profile%20views&color=0e75b6&style=flat" alt="Shernan Javier" /> </p>
 
 <p><a href="https://www.shernanjavier.com/" target="_blank"><img src="https://user-images.githubusercontent.com/55066233/145952179-437238ac-fd7d-47b9-9324-bf9e683ae96f.png" alt="React.js" height="20" width="20" /></a>&nbsp;I'm a React.js Enthusiast</p>
 <p>👨‍💻 I code everyday but I private all my repos so it looks like I have none lol</p>
@@ -42,6 +42,12 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storynook-%23FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
