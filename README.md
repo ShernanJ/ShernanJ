@@ -63,8 +63,11 @@
 
 ## ⭐ Stats
 
-![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShernanJ&count_private=true&theme=onedark)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShernanJ&theme=dark)     | ![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ShernanJ&show_icons=true&locale=en&theme=onedark)
-:-------------------------:|:-------------------------:|:-------------------------:
+![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShernanJ&count_private=true&theme=material-palenight)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShernanJ&theme=material-palenight)
+:-------------------------:|:-------------------------:
+
+![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ShernanJ&show_icons=true&locale=en&theme=material-palenight&layout=compact)     | [![ShernanJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShernanJ&theme=material-palenight)](https://wakatime.com/@ShernanJ)
+:-------------------------------:|:---------------------------:
 
 ## 🤝 Connect with me
 
