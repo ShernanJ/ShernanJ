@@ -7,7 +7,7 @@
 
 <p><a href="https://www.shernanjavier.com/" target="_blank"><img src="https://user-images.githubusercontent.com/55066233/145952179-437238ac-fd7d-47b9-9324-bf9e683ae96f.png" alt="React.js" height="20" width="20" /></a>&nbsp;I'm a React.js Enthusiast</p>
 <p>🔎 I am currently seeking ☀️ Summer 2022 Software Developer Internships</p>
-<p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://uofthacks.com/images/mooselogo-placeholder.png" alt="React.js" height="20" width="20" /></a>&nbsp;I am currently the VP of Web Development @ <a href="https://www.uofthacks.com/" target="_blank">UofTHacks</a> (<a href="https://github.com/UofTHacks-Official">source</a>)</p>
+<p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://uofthacks.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLogo.c5e32462.svg&w=384&q=75" alt="React.js" height="20" width="20" /></a>&nbsp;I am currently the VP of Web Development @ <a href="https://www.uofthacks.com/" target="_blank">UofTHacks</a> (<a href="https://github.com/UofTHacks-Official">source</a>)</p>
 <p>👨‍💻 I am currently attempting <a href="https://www.100daysofcode.com/">#100DaysOfCode</a>, but all my repos are private lol</p>
 <p>📝 Check out my <a href="https://drive.google.com/file/d/1_qmKdsMpTXzzXtwCWYEGh90puMwCTtKa/view" target="_blank">Resume</a></p>
 <p>🌐 Check out my portfolio site @ <a href="https://www.shernanjavier.com/" target="_blank">shernanjavier.com</a> (<a href="https://github.com/ShernanJ/Shernan-Javier">source</a>)</p>
