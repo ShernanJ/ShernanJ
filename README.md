@@ -6,6 +6,7 @@
 </p>
 
 <p><a href="https://www.shernanjavier.com/" target="_blank"><img src="https://user-images.githubusercontent.com/55066233/145952179-437238ac-fd7d-47b9-9324-bf9e683ae96f.png" alt="React.js" height="20" width="20" /></a>&nbsp;React.js Enthusiast</p>
+<p>🔎 I am currently seeking ❄ Winter 2023 Software Engineering Internships</p>
 <p><a href="https://www.td.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Toronto-Dominion_Bank_logo.svg/1200px-Toronto-Dominion_Bank_logo.svg.png" height="20" width="20"/></a>&nbsp;Previous Software Engineer Intern @ <a href="https://www.td.com/">TD Bank</a></p>
 <p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://uofthacks.com/_next/static/media/Logo.c5e32462.svg" alt="React.js" height="20" width="20" /></a>&nbsp;VP of Web Development | Front-End @ <a href="https://www.uofthacks.com/" target="_blank">UofTHacks</a> (<a href="https://github.com/UofTHacks-Official">source</a>)</p>
 <p>👨‍💻 Currently attempting <a href="https://www.100daysofcode.com/">#100DaysOfCode</a>, but all my repos are private lol</p>
