@@ -2,7 +2,6 @@
 <p align="center"> 
 <a href="https://www.github.com/ShernanJ" target="_blank"><img src="https://komarev.com/ghpvc/?username=ShernanJ&label=Profile%20views&color=0e75b6&style=flat" alt="Shernan Javier" /></a>
 <a href="https://www.github.com/ShernanJ?tab=followers" target="_blank"><img src="https://img.shields.io/github/followers/ShernanJ" alt="ShernanJ" /></a>
-<a href="https://www.twitch.tv/shernancodes/" target="_blank"><img src="https://img.shields.io/twitch/status/shernancodes?label=shernancodes&logo=twitch&style=social" alt="shernancodes on twitch.tv" /></a>
 </p>
 
 <p><a href="https://www.shernanjavier.com/" target="_blank"><img src="https://user-images.githubusercontent.com/55066233/145952179-437238ac-fd7d-47b9-9324-bf9e683ae96f.png" alt="React.js" height="20" width="20" /></a>&nbsp;React.js Enthusiast</p>
