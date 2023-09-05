@@ -6,6 +6,7 @@
 
 <p><a href="https://www.shernanjavier.com/" target="_blank"><img src="https://user-images.githubusercontent.com/55066233/145952179-437238ac-fd7d-47b9-9324-bf9e683ae96f.png" alt="React.js" height="20" width="20" /></a>&nbsp;React.js Enthusiast</p>
 <p>🔎 I am currently seeking ❄ Winter 2024 and ☀ Summer 2024 Software Engineering Internships</p>
+<p><a href="https://www.thalesgroup.com/en" target="_blank"><img src="https://media.licdn.com/dms/image/C4D0BAQEmnUAXTuLkJQ/company-logo_200_200/0/1530178704654?e=1701907200&v=beta&t=ez3LUnLZLFJMAo-awgsymPE3G6GW4-vUTGdh9C-QlZc" height="20" width="20"/></a>&nbsp;Software Engineer @ <a href="https://www.thalesgroup.com/en">Thales</a></p>
 <p><a href="https://www.td.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Toronto-Dominion_Bank_logo.svg/1200px-Toronto-Dominion_Bank_logo.svg.png" height="20" width="20"/></a>&nbsp;Previously 3x Software Engineer Intern @ <a href="https://www.td.com/">TD Bank</a></p>
 <p><a href="https://www.uofthacks.com/" target="_blank"><img src="https://raw.githubusercontent.com/UofTHacks-Official/.github/e61a6c0b3fefb04ceac4da0c36b8d5541afb70ec/images/UofTHacks-X-Logo.svg" alt="UofTHacks" height="20" width="20" /></a>&nbsp;Previously VP of Web Development | Front-End @ <a href="https://www.uofthacks.com/" target="_blank">UofTHacks</a> (<a href="https://github.com/UofTHacks-Official">source</a>)</p>
 <p>📝 Check out my <a href="https://drive.google.com/file/d/1_qmKdsMpTXzzXtwCWYEGh90puMwCTtKa/view" target="_blank">Resume</a></p>
