@@ -61,14 +61,6 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 [![Discord.js](https://img.shields.io/badge/discord.js-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/discordjs)
 
-## ⭐ Stats
-
-![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShernanJ&count_private=true&theme=material-palenight)      |  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShernanJ&theme=material-palenight)
-:-------------------------:|:-------------------------:
-
-![Shernan's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=ShernanJ&show_icons=true&locale=en&theme=material-palenight&layout=compact&custom_title=My%20Top%20Used%20Languages%20in%20Repos)     | [![ShernanJ's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ShernanJ&theme=material-palenight&layout=compact&custom_title=Shernan%27s%20WakaTime%20Stats)](https://wakatime.com/@ShernanJ)
-:-------------------------------:|:---------------------------:
-
 ## 🤝 Connect with me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shernanjavier@gmail.com)
