@@ -11,11 +11,7 @@
 <p>🌐 <a href="https://www.shernanjavier.com/" target="_blank">shernanjavier.com</a> (<a href="https://github.com/ShernanJ/Shernan-Javier">source</a>)</p>
 <p>📧 Contact me @ <a href="mailto:shernanjavier@gmail.com">shernanjavier@gmail.com</a>
 
-## 🤝 Connect with me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shernanjavier@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/shernan_javier-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shernanjavier)
 [![Instagram](https://img.shields.io/badge/shernan.javier-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/shernan.javier/)
 ![Discord](https://img.shields.io/badge/shernan-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 [![Devpost](https://img.shields.io/badge/shernanjavier-%230D597F.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/shernanjavier)
-[![Portfolio](https://img.shields.io/badge/shernanjavier.com-%234C9ED4.svg?style=for-the-badge&logo=stripe&logoColor=white)](https://www.shernanjavier.com/)
