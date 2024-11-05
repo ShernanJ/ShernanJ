@@ -1,4 +1,4 @@
-# Hi there, I’m [Shernan](https://shernanjavier.com/) 👋
+# Hey, I’m [Shernan](https://shernanjavier.com/) 👋
 
 [![Resume](https://img.shields.io/badge/Resume-%23018EF5.svg?style=flat&logo=readme&logoColor=white)](https://drive.google.com/file/d/1_qmKdsMpTXzzXtwCWYEGh90puMwCTtKa/view) 
 [![Gmail](https://img.shields.io/badge/Email-%23e34d41.svg?style=flat&logo=gmail&logoColor=white)](mailto:shernanjavier@gmail.com) 
