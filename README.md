@@ -9,7 +9,7 @@
 I'm currently finishing up school and trying to build some cool things :)
 
   
-I previously interned 4x at [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 🧪
+I previously interned 4x at [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
 
 ![Shernan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShernanJ&show_icons=true&theme=react)      |  ![GitHub Streak](https://streak-stats.demolab.com?user=ShernanJ&theme=react)
 :-------------------------:|:-------------------------:
