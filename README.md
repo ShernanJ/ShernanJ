@@ -6,7 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/shernan.javier/)
 ![Discord](https://img.shields.io/badge/shernan-%237289DA.svg?style=flat&logo=discord&logoColor=white) 
 
-### I'm currently finishing up school and trying to build some cool things 😎
+
+I'm currently finishing up school and trying to build some cool things 😎
 
   
 I previously interned 4x at [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
