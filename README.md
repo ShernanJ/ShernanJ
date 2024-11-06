@@ -11,7 +11,7 @@ I'm currently finishing up school and trying to build some cool things :)
   
 I previously interned 4x at [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
 
-![Shernan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShernanJ&show_icons=true&theme=react)      |  ![GitHub Streak](https://streak-stats.demolab.com?user=ShernanJ&theme=react)
+![Shernan's's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShernanJ\&include_all_commits=true&rank_icon=percentile&theme=react)      |  ![GitHub Streak](https://streak-stats.demolab.com?user=ShernanJ&theme=react)
 :-------------------------:|:-------------------------:
 
 <a href="https://www.github.com/ShernanJ" target="_blank"><img src="https://komarev.com/ghpvc/?username=ShernanJ&label=Profile%20views&color=0e75b6&style=flat" alt="Shernan Javier" /></a>
