@@ -7,10 +7,9 @@
 ![Discord](https://img.shields.io/badge/shernan-%237289DA.svg?style=flat&logo=discord&logoColor=white) 
 
 
-CTO & Co-Founder @ MerchMe 👕 
+Co-Founder & CTO @ [MerchMe](https://merchme.me/) 👕 
 
 Building Products @ Productize 💎 / Clover Labs 🍀
-
   
 I previously interned 4x at [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
 
