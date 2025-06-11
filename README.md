@@ -7,7 +7,7 @@
 ![Discord](https://img.shields.io/badge/shernan-%237289DA.svg?style=flat&logo=discord&logoColor=white) 
 
 
-Co-Founder & CTO @ [MerchMe](https://merchme.me/) 👕 
+Co-Founder & CTO @ MerchMe 👕 
 
 Building Products @ Productize 💎 / Clover Labs 🍀
   
