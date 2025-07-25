@@ -9,7 +9,7 @@
 
 Co-Founder & CTO of **MerchMe** 👕 
 
-Building Consumer Products @ **Productize** 💎 / **Clover Labs** 🍀
+Building AI Growth Agents @ **Clover Labs** 🍀
   
 I previously interned 4x at [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
 
