@@ -8,10 +8,8 @@
 
 
 Co-Founder & CTO of **MerchMe** 👕 
-
-Building AI Growth Agents @ **Clover Labs** 🍀
   
-I previously interned 4x at [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
+Previously at [**Clover Labs**](https://cloverlabs.ai) 🍀, [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
 
 
 <a href="https://www.github.com/ShernanJ" target="_blank"><img src="https://komarev.com/ghpvc/?username=ShernanJ&label=Profile%20views&color=0e75b6&style=flat" alt="Shernan Javier" /></a>
