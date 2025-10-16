@@ -7,7 +7,7 @@
 ![Discord](https://img.shields.io/badge/shernan-%237289DA.svg?style=flat&logo=discord&logoColor=white) 
 
 
-Co-Founder & CTO of **MerchMe** 👕 
+Co-Founder & CTO of **Monetary** 💸
   
 Previously at [**Clover Labs**](https://cloverlabs.ai) 🍀, [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
 
