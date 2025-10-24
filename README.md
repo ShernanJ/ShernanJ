@@ -8,6 +8,8 @@
 
 
 Co-Founder & CTO of **MerchMe** 💸
+
+Cansbridge Scholar - Meraki Cohort for Fall 2025 💫
   
 Previously at [**Clover Labs**](https://cloverlabs.ai) 🍀, [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
 
