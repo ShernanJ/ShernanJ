@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/shernan.javier/)
 ![Discord](https://img.shields.io/badge/shernan-%237289DA.svg?style=flat&logo=discord&logoColor=white) 
 
-Building something cool 👀
+Building something cool, announcing soon... 👀
 
 Cansbridge Scholars - Meraki Cohort [Fall 2025] 💫
 
