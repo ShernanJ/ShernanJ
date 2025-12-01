@@ -6,10 +6,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/shernan.javier/)
 ![Discord](https://img.shields.io/badge/shernan-%237289DA.svg?style=flat&logo=discord&logoColor=white) 
 
-
-Co-Founder & CTO of **MerchMe** 💸
+Building something cool 👀
 
 Cansbridge Scholars - Meraki Cohort [Fall 2025] 💫
+
+Previously Co-Founder & CTO of **MerchMe** 💸
   
 Previously at [**Clover Labs**](https://cloverlabs.ai) 🍀, [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
 
