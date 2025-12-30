@@ -8,9 +8,9 @@
 
 Cansbridge Scholars - Meraki Cohort [Fall 2025] 💫
 
-Previously Co-Founder & CTO of **MerchMe** 💸
+Software Engineer @ [**Cashin**](https://cashin.so/) 💰
   
-Previously at [**Clover Labs**](https://cloverlabs.ai) 🍀, [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
+Previously [**MerchMe**](https://merchme.me/) 💸, [**Clover Labs**](https://cloverlabs.ai) 🍀, [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
 
 
 <a href="https://www.github.com/ShernanJ" target="_blank"><img src="https://komarev.com/ghpvc/?username=ShernanJ&label=Profile%20views&color=0e75b6&style=flat" alt="Shernan Javier" /></a>
