@@ -1,14 +1,20 @@
-# Hey, I’m [Shernan](https://shernanjavier.com/) 👋
+# shernan javier ✦
 
-[![Resume](https://img.shields.io/badge/Resume-%23018EF5.svg?style=flat&logo=readme&logoColor=white)](https://drive.google.com/file/d/1_qmKdsMpTXzzXtwCWYEGh90puMwCTtKa/view) 
-[![Gmail](https://img.shields.io/badge/Email-%23e34d41.svg?style=flat&logo=gmail&logoColor=white)](mailto:shernanjavier@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shernanjavier)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/shernan.javier/)
-![Discord](https://img.shields.io/badge/shernan-%237289DA.svg?style=flat&logo=discord&logoColor=white) 
+[![x](https://img.shields.io/badge/shernanjavier-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/shernanjavier)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shernanjavier)
 
-Experimenting with building consumer apps rn :)
-  
-Previously [**MerchMe**](https://merchme.me/) 💸, [**Clover Labs**](https://cloverlabs.ai) 🍀, [TD](https://td.com/) 💳, [Thales](https://www.thalesgroup.com/en) 🔐, and [Taplytics](https://www.taplytics.com/) 📊
+building projects around personal data, behavior, and systems design.  
+focused on abstraction, data modeling under uncertainty, and reasoning over messy, real-world signals.
 
+currently exploring:
+- abstraction and ontology design
+- data modeling under uncertainty
+- system boundaries and tradeoffs
+- signal-to-inference pipelines
+- making sense of incomplete data
 
-<a href="https://www.github.com/ShernanJ" target="_blank"><img src="https://komarev.com/ghpvc/?username=ShernanJ&label=Profile%20views&color=0e75b6&style=flat" alt="Shernan Javier" /></a>
+contact:  
+[shernanjavier@gmail.com](mailto:shernanjavier@gmail.com)
+
+previously:
+merchme · clover labs · td · thales · taplytics
