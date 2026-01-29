@@ -6,12 +6,15 @@
 building projects around personal data, behavior, and systems design.  
 focused on abstraction, data modeling under uncertainty, and reasoning over messy, real-world signals.
 
+most projects here start as questions rather than products.  
+they’re intentionally scoped to explore specific problems, domains, or constraints.
+
 currently exploring:
 - abstraction and ontology design
 - data modeling under uncertainty
 - system boundaries and tradeoffs
-- signal-to-inference pipelines
-- making sense of incomplete data
+- browser execution and runtime models
+- client-side instrumentation via cdp
 
 contact:  
 [shernanjavier@gmail.com](mailto:shernanjavier@gmail.com)
