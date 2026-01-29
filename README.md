@@ -6,8 +6,7 @@
 building projects around personal data, behavior, and systems design.  
 focused on abstraction, data modeling under uncertainty, and reasoning over messy, real-world signals.
 
-most projects here start as questions rather than products.  
-they’re intentionally scoped to explore specific problems, domains, or constraints.
+projects here start as questions, not products.
 
 currently exploring:
 - abstraction and ontology design
