@@ -20,4 +20,4 @@ contact:
 [shernanjavier@gmail.com](mailto:shernanjavier@gmail.com)
 
 previously:
-merchme · clover labs · td · thales · taplytics
+merchme (co-founder) · clover labs · td · thales · taplytics
