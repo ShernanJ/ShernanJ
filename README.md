@@ -9,9 +9,9 @@ focused on abstraction, data modeling under uncertainty, and reasoning over mess
 currently exploring:
 - abstraction and ontology design
 - data modeling under uncertainty
-- system boundaries and tradeoffs
-- browser execution and runtime models
-- client-side instrumentation via cdp
+- browser execution and runtime interception
+- client-side instrumentation and observability
+- real-time signal correlation → human-readable reasoning
 
 contact:  
 [shernanjavier@gmail.com](mailto:shernanjavier@gmail.com)
