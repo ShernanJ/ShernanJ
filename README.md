@@ -3,15 +3,21 @@
 [![x](https://img.shields.io/badge/shernanjavier-%23000000.svg?style=flat&logo=x&logoColor=white)](https://x.com/shernanjavier)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shernanjavier)
 
-building projects around personal data, behavior, and systems design.  
-focused on abstraction, data modeling under uncertainty, and reasoning over messy, real-world signals.
+building systems that turn messy, real-world signals into structured, usable knowledge.  
+focused on abstraction, data modeling under uncertainty, and designing infrastructure that both humans and agents can reason over.
 
-currently exploring:
-- abstraction and ontology design
+currently building + exploring:
+- abstraction & ontology design
 - data modeling under uncertainty
-- browser execution and runtime interception
-- client-side instrumentation and observability
-- real-time signal correlation → human-readable reasoning
+- browser execution, runtime interception, and client-side instrumentation
+- observability and high-signal event extraction
+- real-time signal correlation → human-readable + agent-readable reasoning
+- documentation infrastructure for agents (structured, cached, versioned)
+
+interests:
+- agents as software collaborators (not prompt toys)
+- explainable systems over black-box intelligence
+- developer infra that reduces cognitive + compute waste
 
 contact:  
 [shernanjavier@gmail.com](mailto:shernanjavier@gmail.com)
