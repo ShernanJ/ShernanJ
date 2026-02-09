@@ -4,7 +4,8 @@
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shernanjavier)
 
 building systems that turn messy, real-world signals into structured, usable knowledge.  
-focused on abstraction, data modeling under uncertainty, and designing infrastructure that both humans and agents can reason over.
+focused on abstraction, data modeling under uncertainty, and designing infrastructure
+that both humans and agents can reason over.
 
 currently building + exploring:
 - abstraction & ontology design
