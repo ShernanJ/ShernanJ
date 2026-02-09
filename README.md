@@ -7,7 +7,7 @@ building systems that turn messy, real-world signals into structured knowledge.
 focused on abstraction, uncertainty, and systems humans and agents can reason over.
 
 
-currently building + exploring:
+currently building & exploring:
 - abstraction & ontology design
 - data modeling under uncertainty
 - browser execution & runtime interception
