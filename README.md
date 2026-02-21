@@ -15,7 +15,7 @@ currently building & exploring:
 - large-scale crawling, enrichment, and evidence grounding
 - scoring & explanation engines over real data
 - creator economy intelligence (creatorgraph, creatorpulse)
-- community infrastructure & interaction graphs
+- community operating infrastructure & interaction graphs
 - turning live signals into explanations humans and agents can use
 
 contact:  
