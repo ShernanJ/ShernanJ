@@ -8,12 +8,14 @@ focused on abstraction, uncertainty, and systems humans and agents can reason ov
 
 
 currently building & exploring:
-- abstraction & ontology design
-- data modeling under uncertainty
+- ontology-driven data modeling & knowledge graphs
+- agent-native documentation infrastructure
 - browser execution & runtime interception
-- client-side instrumentation
-- observability and high-signal event extraction
-- documentation infrastructure for agents (structured, cached, versioned)
+- high-signal client-side instrumentation
+- large-scale crawling, enrichment, and evidence grounding
+- scoring & explanation engines over real data
+- creator economy intelligence (creatorgraph, creatorpulse)
+- community infrastructure & interaction graphs
 - turning live signals into explanations humans and agents can use
 
 contact:  
