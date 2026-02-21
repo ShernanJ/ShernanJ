@@ -16,7 +16,6 @@ currently building & exploring:
 - scoring & explanation engines over real data
 - creator economy intelligence (creatorgraph, creatorpulse)
 - community operating infrastructure & interaction graphs
-- turning live signals into explanations humans and agents can use
 
 contact:  
 [shernanjavier@gmail.com](mailto:shernanjavier@gmail.com)
