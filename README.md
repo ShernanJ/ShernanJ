@@ -14,7 +14,7 @@ currently building & exploring:
 - high-signal client-side instrumentation
 - large-scale crawling, enrichment, and evidence grounding
 - scoring & explanation engines over real data
-- creator economy intelligence (creatorgraph, creatorpulse)
+- creator economy intelligence
 - community operating infrastructure & interaction graphs
 
 contact:  
