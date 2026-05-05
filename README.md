@@ -5,6 +5,8 @@
 
 building things for the love of building things.
 
+currently learning how youtube works...
+
 contact:  
 [shernanjavier@gmail.com](mailto:shernanjavier@gmail.com)
 
