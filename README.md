@@ -4,6 +4,7 @@
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shernanjavier)
 
 building things for the love of building things.
+[shernanjavier.com](shernanjavier.com)
 
 contact:  
 [shernanjavier@gmail.com](mailto:shernanjavier@gmail.com)
