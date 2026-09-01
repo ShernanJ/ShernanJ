@@ -8,6 +8,3 @@ building things for the love of building things.
 
 contact:  
 [shernanjavier@gmail.com](mailto:shernanjavier@gmail.com)
-
-previously:
-merchme (co-founder) · clover labs · td · thales · taplytics
